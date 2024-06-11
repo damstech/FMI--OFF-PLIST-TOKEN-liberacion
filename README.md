@@ -1,4 +1,4 @@
-# FMI-LIBERACION-IPHONEs
+# FMI-OFF-PLIST-TOKEN
 Cómo funciona?
 
 1 - En primer lugar, usted necesita restaurar su dispositivo en el último iOS y descargar la herramienta para extraer el token (solicidad de activación ). *No conecte su iphone a wifi
